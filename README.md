@@ -25,9 +25,6 @@
       <li><a href="https://www.instagram.com/miguell.marqques/?next=%2F">Instagram</a></li>
       <li><a href="https://www.linkedin.com/in/miguel-m-17a76b2bb/">Linkedin</a></li>
       <li><a href="https://www.tiktok.com/@.misttyyy?lang=pt-BR">TikTok</a></li>
-      <li>
-        <p>👋</p>
-      </li>
     </ul>
   </div>
   <center>
@@ -38,4 +35,3 @@
   </footer>
 </body>
 </html>
-
