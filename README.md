@@ -21,11 +21,10 @@
   </div>
   <div class="footer">
     <ul>
-      <li><a href="https://twitter.com/julesforrest">Twitter</a></li>
-      <li><a href="https://codepen.io/julesforrest">Instagram</a></li>
-      <li><a href="mailto:julesforrest@gmail.com">Linkedin</a></li>
-      <li><a href="https://dribbble.com/julesforrest">Facebook</a></li>
-      <li><a href="https://github.com/julesforrest">Github</a></li>
+      <li><a href="https://twitter.com/migueI_marques">Twitter</a></li>
+      <li><a href="https://www.instagram.com/miguell.marqques/?next=%2F">Instagram</a></li>
+      <li><a href="https://www.linkedin.com/in/miguel-m-17a76b2bb/">Linkedin</a></li>
+      <li><a href="https://www.tiktok.com/@.misttyyy?lang=pt-BR">TikTok</a></li>
       <li>
         <p>👋</p>
       </li>
@@ -33,7 +32,7 @@
   </div>
   <center>
   <div class="footermiguel">
-    <h6>Curriculum Copyright © 2024 Miguel - Info || Designed By: Miguel</h6>
+    <h6>Copyright © 2024 Miguel || Designed By: Miguel</h6>
   </div>
 </center>
   </footer>
