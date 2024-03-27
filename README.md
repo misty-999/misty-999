@@ -54,7 +54,7 @@
   
 </div>
   <div class="footermiguel">
-    <h6>Curriculum Copyright © 2024 Miguel - Info || Designed By: Miguel</h6>
+    <h6>C Copyright © 2024 Miguel  || Designed By: Miguel MARQUES</h6>
   </div>
 </center>
   </footer>
