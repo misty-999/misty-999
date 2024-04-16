@@ -58,8 +58,7 @@
        </span> BikeLight
         </h2>
         <p class="description">
-          BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site fornece informações sobre o equipamento de luz.
-        
+         BikeLight, equipment that contributes to the safety of cyclists. Improves visibility, reduces the risk of accidents and assists in compliance with traffic laws. The site provides information about light equipment.
 
  - [Website BikeLight](https://bikelight.tech)
 
