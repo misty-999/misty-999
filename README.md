@@ -53,13 +53,6 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
- <h2 class="title">
-       </span> About
-- 🔭 I’m currently working on [BikeLight](https://bikelight.tech)
-
-- 🌱 I’m currently learning **courses**
-
-- 📫 How to reach me **miguelmarqques13@gmail.com**
   
  <h2 class="title">
        </span> BikeLight
@@ -72,14 +65,14 @@
         
         
       </p>
-        ## Referência
 
  - [Website BikeLight](https://bikelight.tech)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=misty.999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+- 📫 How to reach me **miguelmarqques13@gmail.com**
 
 `Life is what you make it so make it well`
 
