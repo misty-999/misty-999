@@ -69,9 +69,9 @@
  - [Website BikeLight](https://bikelight.tech)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=misty.999&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=misty-999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=misty-999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misty-999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 - 📫 How to reach me **miguelmarqques13@gmail.com**
 
 `Life is what you make it so make it well`
