@@ -53,20 +53,22 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
-
+ <h2 class="title">
+       </span> About
 - 🔭 I’m currently working on [BikeLight](https://bikelight.tech)
 
 - 🌱 I’m currently learning **courses**
 
 - 📫 How to reach me **miguelmarqques13@gmail.com**
-- 
+  
  <h2 class="title">
        </span> BikeLight
         </h2>
         <p class="description">
           BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site fornece informações sobre o equipamento de luz.
           
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](htt![image](https://github.com/misty-999/misty-999/assets/128514155/4f5c44a8-19b4-4b5a-955d-74053d989f68)
+ps://)
         </p>
         ## Referência
 
@@ -77,12 +79,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=misty.999&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-`API_KEY`
-
-`ANOTHER_API_KEY`
+`Life is what you make it so make it well`
 
   <div class="footermiguel">
-    <h6> Copyright © 2024 Miguel  || Designed By: Miguel Marques</h6>
+    <h6> Copyright © 2024 Miguel  || Designed By: Miguel Marques</h6>  
   </div>
 </center>
   </footer>
