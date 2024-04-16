@@ -43,7 +43,7 @@
   
   ##
    <h2 class="title">
-       </span> Web Developer
+       </span> Professional Contacts
         </h2>
 
 <div> 
@@ -53,12 +53,35 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+
+- 🔭 I’m currently working on [BikeLight](https://bikelight.tech)
+
+- 🌱 I’m currently learning **courses**
+
+- 📫 How to reach me **miguelmarqques13@gmail.com**
+- 
  <h2 class="title">
        </span> BikeLight
         </h2>
         <p class="description">
           BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site - ( htps://bikelight.tech ) fornece informações sobre o equipamento de luz.
+          
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
         </p>
+        ## Referência
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=misty.999&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
   <div class="footermiguel">
     <h6> Copyright © 2024 Miguel  || Designed By: Miguel Marques</h6>
   </div>
