@@ -64,15 +64,14 @@
        </span> BikeLight
         </h2>
         <p class="description">
-          BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site - ( htps://bikelight.tech ) fornece informações sobre o equipamento de luz.
+          BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site fornece informações sobre o equipamento de luz.
           
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
         </p>
         ## Referência
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Awesome Readme Templates](https://bikelight.tech)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=misty.999&theme=dark&hide_border=false)<br/>
