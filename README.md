@@ -67,12 +67,14 @@
         <p class="description">
           BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site fornece informações sobre o equipamento de luz.
           
-![Logo](htt![image](https://github.com/misty-999/misty-999/assets/128514155/4f5c44a8-19b4-4b5a-955d-74053d989f68)
-ps://)
-        </p>
+![Logo](https://github.com/misty-999/misty-999/assets/128514155/4f5c44a8-19b4-4b5a-955d-74053d989f68)
+      
+        
+        
+      </p>
         ## Referência
 
- - [Awesome Readme Templates](https://bikelight.tech)
+ - [Website BikeLight](https://bikelight.tech)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=misty.999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
