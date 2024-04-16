@@ -53,8 +53,14 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+ <h2 class="title">
+       </span> BikeLight
+        </h2>
+        <p class="description">
+          BikeLight, um equipamento que contribui para a segurança dos ciclistas. Melhora a visibilidade, reduz o risco de acidentes e auxilia na conformidade com as leis de trânsito. O site - ( htps://bikelight.tech ) fornece informações sobre o equipamento de luz.
+        </p>
   <div class="footermiguel">
-    <h6>C Copyright © 2024 Miguel  || Designed By: Miguel MARQUES</h6>
+    <h6> Copyright © 2024 Miguel  || Designed By: Miguel Marques</h6>
   </div>
 </center>
   </footer>
