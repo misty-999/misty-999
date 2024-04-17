@@ -13,8 +13,7 @@
         <p class="description">
           Welcome to my web developer portfolio! I'm Miguel, a skilled and
           creative web developer with a passion for creating beautiful,
-          responsive, and user-friendly websites. I've worked on a variety of
-          web projects, ranging from personal blogs to e-commerce platforms.
+          responsive, and user-friendly websites. 
         </p>
        <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +26,7 @@
       <div class="content" id="aboutContent">
         <h2 class="title">Who I Am</h2>
         <p class="description">
-          I am Miguel, a passionate and dedicated web developer. With years of experience in the field, I strive to create elegant and efficient solutions for web development projects.
+         I strive to create elegant and efficient solutions for web development projects.
         </p>
       </div>
     </div>
